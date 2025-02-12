@@ -7,14 +7,15 @@ collection: projects
 author_profile: true
 tagline: "A research project into A* and navmesh generation."
 header:
-  overlay_image: assets\images\projects\custom-navmesh\custom-navmesh-banner.png
-  teaser: assets\images\projects\custom-navmesh\custom-navmesh-teaser.png
+  overlay_image: assets/images/projects/custom-navmesh/custom-navmesh-banner.png
+  teaser: assets/images/projects/custom-navmesh/custom-navmesh-teaser.png
 ---
 
 This is a tool for Unity that allows for 2D navmesh generation based on a square grid of tiles. This required a lot of research into triangle maths such as Constrained Delaunay Triangulation and pathfinding through the A* algorithm. The end result of this project as seen here and on the front page is an environment capable of dynamically creating navmeshes and allowing AI agents with different behaviours to roam around with suitably accurate pathfinding.
 
 
 The link to the github repo can be found [here](https://github.com/EthanMunday/AIMazeSolver/tree/game-ai)
+{: .notice--info}
 
 {% capture fig_img %}
 ![navmesh-showcase](\assets\images\projects\custom-navmesh\custom-navmesh-generation.png)

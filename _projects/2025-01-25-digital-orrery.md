@@ -7,13 +7,14 @@ collection: projects
 author_profile: true
 tagline: "A research project into common vector maths."
 header:
-  overlay_image: assets\images\projects\digital-orrery\digital-orrery-banner.png
-  teaser: assets\images\projects\digital-orrery\digital-orrery-teaser.png
+  overlay_image: assets/images/projects/digital-orrery/digital-orrery-banner.png
+  teaser: assets/images/projects/digital-orrery/digital-orrery-teaser.png
 ---
 
 This is a digital orrery I created in Unity using C*. This was my first dive into vector maths, from dot and cross products to transformation matrices to spherical rotation using quaternions. This culminated in using a custom transform, fully programmed by me along with sphere collisions for the planets and custom scripts to spawn and alter planets and orbits in real time.
 
 The link to the github repo can be found [here](https://github.com/EthanMunday/EMMaths)
+{: .notice--info}
 
 {% capture fig_img %}
 ![orrery-in-engine](\assets\images\projects\digital-orrery\digital-orrery-engine.png)

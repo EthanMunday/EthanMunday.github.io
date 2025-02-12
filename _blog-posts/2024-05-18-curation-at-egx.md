@@ -7,8 +7,8 @@ collection: blog-posts
 author_profile: true
 tagline: "Very big, very many people"
 header:
-  overlay_image: assets\images\site\banner_fallback.png
-  teaser: aassets\images\posts\curation-at-egx\curation-at-egx-banner.png
+  overlay_image: assets/images/site/banner_fallback.png
+  teaser: aassets/images/posts/curation-at-egx/curation-at-egx-banner.png
 ---
 
 Once again, the University of Portsmouth gave us the opportunity to showcase our game Curation, this time at EGX 2024 which for this year was merged with MCM Comic Con. Unlike the relatively small yet very enjoyable [Barclays Game Frenzy](/blog-posts/curation-at-barclays/), EGX is one of the biggest gaming conventions in the UK and, since it's being merged with MCM Comic Con, I was expecting a bit more of a crowd than last time.

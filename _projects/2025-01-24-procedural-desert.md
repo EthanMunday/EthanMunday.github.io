@@ -7,7 +7,7 @@ collection: projects
 author_profile: true
 tagline: "Experimenting with Unreal Engine 5 and Unreal C++."
 header:
-  overlay_image: assets\images\projects\procedural-desert\desert-image.png
+  overlay_image: assets/images/projects/procedural-desert/desert-image.png
   teaser: assets/images/projects/procedural-desert/desert-teaser.png
 ---
 

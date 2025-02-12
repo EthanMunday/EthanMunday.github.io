@@ -7,8 +7,8 @@ collection: blog-posts
 author_profile: true
 tagline: "Not exactly something to scoff at"
 header:
-  overlay_image: assets\images\posts\curation-tiga-award\curation-tiga-award-banner.png
-  teaser: assets\images\posts\curation-tiga-award\curation-tiga-award-teaser.png
+  overlay_image: assets/images/posts/curation-tiga-award/curation-tiga-award-banner.png
+  teaser: assets/images/posts/curation-tiga-award/curation-tiga-award-teaser.png
 ---
 
 Well, we did it! We won the Creative Assembly Best Student Game award at the TIGA UK Games Education Awards 2024 (That sure is a mouthful, huh) for our game Curation! This was a surprise to us all but a pleasant surprise to us, nonetheless. It wasn't a clear victory, there were many games on that list, and I had personally played through as many as I could find until I concluded that this was a competitive award (I was also adjacently rooting for [Rider City Rush](https://linktr.ee/VoidFactory)).

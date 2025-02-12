@@ -7,8 +7,8 @@ collection: projects
 author_profile: true
 tagline: "My first challenge in C++ game programming."
 header:
-  overlay_image: assets\images\projects\riichi-mahjong\mahjong-banner.png
-  teaser: assets\images\projects\riichi-mahjong\mahjong-teaser.png
+  overlay_image: assets/images/projects\riichi-mahjong/mahjong-banner.png
+  teaser: assets/images/projects/riichi-mahjong/mahjong-teaser.png
 ---
 
 One of my modules from university tasked me with making a simple console-based C++ game. Naturally, the first game I gravitated towards was mahjong to challenge myself with its complex mechanics and non-linear game structure. I managed to re-create most of the mechanics to the best of my current ability and learnt a lot about the mechanics of C++ whilst doing so.

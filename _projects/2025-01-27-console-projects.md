@@ -7,8 +7,8 @@ collection: projects
 author_profile: true
 tagline: "Super secret cool technology stuff"
 header:
-  overlay_image: assets\images\projects\console-projects\console-banner.png
-  teaser: assets\images\site\teaser_fallback.png
+  overlay_image: assets/images/projects\console-projects/console-banner.png
+  teaser: assets/images/site/teaser_fallback.png
 ---
 
 During my time at university, I was given the oportunity to work with both the Nintendo Switch and PS5 development kits. However, these are under strict NDA so I cannot share many details about this project.

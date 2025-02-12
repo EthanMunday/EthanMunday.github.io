@@ -7,8 +7,8 @@ collection: blog-posts
 author_profile: true
 tagline: "Google Sites ain't gonna cut it."
 header:
-  overlay_image: assets\images\posts\portfolio-remake\portfolio-remake-banner.png
-  teaser: assets\images\posts\portfolio-remake\portfolio-remake-teaser.png
+  overlay_image: assets/images/posts/portfolio-remake/portfolio-remake-banner.png
+  teaser: assets/images/posts/portfolio-remake/portfolio-remake-teaser.png
 ---
 
 Hey there! Technically, this is my first new page on this site. I felt that after I was done with university, I need to put my all into my projects and what comes next. My only gripe with that idea is that my portfolio didn't look the best and using Google Sites didn't give me too much to work with. Therefore, after learning about GitHub Pages. I decided to move my portfolio here.

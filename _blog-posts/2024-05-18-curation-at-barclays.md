@@ -7,8 +7,8 @@ collection: blog-posts
 author_profile: true
 tagline: "A very cool event in a very fancy tower"
 header:
-  overlay_image: assets\images\posts\curation-at-barclays\curation-at-barclays-banner.png
-  teaser: assets\images\posts\curation-at-barclays\curation-at-barclays-teaser.png
+  overlay_image: assets/images/posts/curation-at-barclays/curation-at-barclays-banner.png
+  teaser: assets/images/posts/curation-at-barclays/curation-at-barclays-teaser.png
 ---
 
 Recently, we were given the chance through the University of Portsmouth to show off our game at the Barclays Game Frenzy 2024 under their name. It was a great opportunity for us to view the landscape of both smaller UK based companies and other university talent.
