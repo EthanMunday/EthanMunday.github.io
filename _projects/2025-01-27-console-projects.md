@@ -7,7 +7,7 @@ collection: projects
 author_profile: true
 tagline: "Super secret cool technology stuff"
 header:
-  overlay_image: assets/images/projects\console-projects/console-banner.png
+  overlay_image: assets/images/projects/console-projects/console-banner.png
   teaser: assets/images/site/teaser_fallback.png
 ---
 
