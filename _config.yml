@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mundayethan@gmail.com"
+      url: "mailto:mundayethan@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://EthanMunday.github.com/"
